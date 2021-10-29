@@ -62,7 +62,7 @@
             scm:git:git@github.com/diegodimap/PetClinicSpringBootReview.git
 <!--            <TAG>HEAD</TAG>-->
         </developerConnection>
-      <tag>PetClinic-0.0.1</tag>
+      <tag>PetClinic-0.0.4</tag>
   </scm>
 
 
