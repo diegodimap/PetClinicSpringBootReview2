@@ -57,13 +57,13 @@
     </build>
 
 
-    <scm>
-        <developerConnection>
-            scm:git:git@github.com/diegodimap/PetClinicSpringBootReview.git
-<!--            <TAG>HEAD</TAG>-->
-        </developerConnection>
-      <tag>PetClinic-0.0.4</tag>
-  </scm>
+<!--    <scm>-->
+<!--        <developerConnection>-->
+<!--            scm:git:git@github.com/diegodimap/PetClinicSpringBootReview.git-->
+<!--&lt;!&ndash;            <TAG>HEAD</TAG>&ndash;&gt;-->
+<!--        </developerConnection>-->
+<!--      <tag>PetClinic-0.0.4</tag>-->
+<!--  </scm>-->
 
 
 </project>
