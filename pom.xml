@@ -59,7 +59,7 @@
 
     <scm>
         <developerConnection>
-            scm:git:git@github.com:https://github.com/diegodimap/PetClinicSpringBootReview.git
+            scm:git:git@github.com/diegodimap/PetClinicSpringBootReview.git
 <!--            <TAG>HEAD</TAG>-->
         </developerConnection>
       <tag>PetClinic-0.0.1</tag>
