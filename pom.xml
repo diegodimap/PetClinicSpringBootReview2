@@ -57,13 +57,13 @@
         </plugins>
     </build>
 
-<!--    gerar
+
     <scm>
         <developerConnection>
-            scm:git:git@github.com:endereçodoseuprojeto.git
-            <TAG>HEAD</TAG>
+            scm:git:git@github.com:https://github.com/diegodimap/PetClinicSpringBootReview.git
+<!--            <TAG>HEAD</TAG>-->
         </developerConnection>
     </scm>
-    TAG-->
+
 
 </project>
