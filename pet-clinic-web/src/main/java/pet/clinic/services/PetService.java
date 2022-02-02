@@ -1,8 +1,6 @@
-package services;
+package pet.clinic.services;
 
-import model.Pet;
-
-import java.util.Set;
+import pet.clinic.model.Pet;
 
 public interface PetService extends CrudServices<Pet, Long> {
 
