@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: qa
+
+guru:
+  username: diegoyaml
+  password: passyaml
+  jdbc: 12345yaml

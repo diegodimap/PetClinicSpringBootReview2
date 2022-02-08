@@ -3,12 +3,11 @@ package pet.clinic.config;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.PropertySource;
 import pet.clinic.datasource.FakeData;
 
-@PropertySource("classpath:datasource.properties")
+//@PropertySource("classpath:datasource.properties") se comentar aqui ele vai rodar o valor do application.properties active
 @Configuration
-public class GreetingsServiceConfig {
+public class DatabaseConfigurationService {
 
     @Bean
     FakeData fakeData(@Value("${guru.username}") String username,
